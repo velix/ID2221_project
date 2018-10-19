@@ -104,4 +104,5 @@ venv.bak/
 .mypy_cache/
 
 .vscode
-src/__pycache__
+src/__pycache_
+*.pdf_
